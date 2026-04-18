@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contact Robert by texting 973 573 3787
-date: 2026-04-15 19:22
+date: 2026-04-15 +1922
 summary: email to be activated: robert@niftycarry.com
 categories: jekyll pixyll
 ---
