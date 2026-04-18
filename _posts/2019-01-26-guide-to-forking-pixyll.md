@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Guide to Forking Pixyll
-date: 2019-01-26 19:22
-summary: Pixyll is available to you under the MIT license.
+title: Contact Robert by texting 973 573 3787
+date: 2026-04-15 19:22
+summary: email to be activated: robert@niftycarry.com
 categories: jekyll pixyll
 ---
 
