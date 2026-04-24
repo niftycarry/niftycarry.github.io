@@ -3,5 +3,5 @@
   <strong>Announcement:</strong> This is a floating top banner!
 </div>
 
-(_asset/pre-o-icon.jpg)
+!(_asset/pre-o-icon.jpg)
 Welcome
