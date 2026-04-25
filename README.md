@@ -1,17 +1,3 @@
-<style>
-  .sticky-banner {
-  position: -webkit-sticky; /* For Safari */
-  position: sticky;
-  top: 0;
-  width: 100%;
-  background-color: #ffffff;
-  color: black;
-  text-align: center;
-  padding: 15px 0;
-  font-weight: bold;
-  z-index: 1000; /* Ensures it stays above other elements */
-}>
-</style>
 
 <div class="sticky-banner">
   
