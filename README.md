@@ -1,7 +1,29 @@
-# niftycarry.github.io
-<div style="position: fixed; top: 0; left: 0; width: 100%; background: #f8d7da; color: #721c24; text-align: center; padding: 10px; z-index: 9999;">
-  <strong>Announcement:</strong> This is a floating top banner!
+<style>
+  .sticky-banner {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  padding: 15px 0;
+  font-weight: bold;
+  z-index: 1000; /* Ensures it stays above other elements */
+}>
+</style>
+
+<div class="sticky-banner">
+  
+  <table style="border: none; border-collapse: collapse; border="0"">
+  <tr>
+    <td style="border: none; padding: 0px; width 15%">
+    <img src="pre-o-icon.jpg">
+    </td>
+    <td style="border: none; padding: 0px; width: 15%"> <img src="about.jpg"></td>
+   
+  </tr>
+</table>
 </div>
 
-![](_asset/pre-o-icon.jpg)
-Welcome
+# Welcome to 🔥NiftyCarry.com🔥 We are a EDC products developement and News Site
